@@ -1,4 +1,4 @@
-# SwiftPay Backend
+# SwiftPay API
 
 SwiftPay is a revolutionary payment solution designed to empower merchants by enabling faster and seamless cross-border transactions through cutting-edge blockchain technology. This backend repository contains the core functionalities and services that drive the SwiftPay application.
 
@@ -16,7 +16,7 @@ SwiftPay is a revolutionary payment solution designed to empower merchants by en
 
 ## Getting Started
 
-To set up the SwiftPay backend locally, follow these steps:
+To set up the SwiftPay API locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
@@ -26,7 +26,7 @@ To set up the SwiftPay backend locally, follow these steps:
 ## Installation
 
 ```bash
-$ cd swiftpay-backend
+$ cd swiftpay-api
 $ npm install
 ```
 
