@@ -6,13 +6,13 @@ SwiftPay is a revolutionary payment solution designed to empower merchants by en
 
 - **Blockchain Integration:** SwiftPay leverages the power of blockchain to provide a secure and transparent payment infrastructure. The backend seamlessly integrates with popular blockchain networks, ensuring fast and reliable transactions.
 
-- **Cross-Border Payments:** Our backend is optimized to handle cross-border transactions efficiently. SwiftPay eliminates traditional barriers and delays associated with international payments, allowing merchants to receive funds promptly.
+- **Cross-Border Payments:** Our API is optimized to handle cross-border transactions efficiently. SwiftPay eliminates traditional barriers and delays associated with international payments, allowing merchants to receive funds promptly.
 
-- **Smart Contracts:** Smart contracts play a crucial role in SwiftPay. The backend is equipped with smart contract capabilities that automate and execute predefined payment conditions, ensuring trust and reliability in every transaction.
+- **Smart Contracts:** Smart contracts play a crucial role in SwiftPay. The API is equipped with smart contract capabilities that automate and execute predefined payment conditions, ensuring trust and reliability in every transaction.
 
-- **Scalable Architecture:** The backend is designed with scalability in mind. As your user base grows, SwiftPay's backend infrastructure can seamlessly adapt to the increasing demand, providing a robust and reliable service.
+- **Scalable Architecture:** The API is designed with scalability in mind. As your user base grows, SwiftPay's backend infrastructure can seamlessly adapt to the increasing demand, providing a robust and reliable service.
 
-- **Security:** Security is our top priority. The backend implements industry-best practices to safeguard sensitive transaction data, protecting both merchants and users from potential threats.
+- **Security:** Security is our top priority. The API implements industry-best practices to safeguard sensitive transaction data, protecting both merchants and users from potential threats.
 
 ## Getting Started
 
@@ -60,11 +60,11 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 ## API Documentation
-For detailed information on available API endpoints and how to interact with the SwiftPay backend, refer to the API Documentation.
+For detailed information on available API endpoints and how to interact with the SwiftPay API, refer to the API Documentation(Coming Soon).
 
 
 ## Contributing
-We welcome contributions to make SwiftPay even better! If you'd like to contribute, please follow our Contribution Guidelines.
+We welcome contributions to make SwiftPay even better! If you'd like to contribute, please follow our Contribution Guidelines(Coming Soon).
 
 
 ## Stay in touch
