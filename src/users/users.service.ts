@@ -28,9 +28,14 @@ export class UsersService {
     return this.userModel.find().exec();
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} user`;
+  async findById(id: string) {
+    return this.userModel.find({id: id}).exec();
   }
+
+  async findByEnail(email: string){
+    return this.userModel.find({email: email}).exec();
+  }
+  
 
   update(id: number, updateUserDto: UpdateUserDto) {
     return `This action updates a #${id} user`;
